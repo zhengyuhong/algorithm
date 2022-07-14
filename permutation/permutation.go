@@ -1,4 +1,4 @@
-package util
+package permutation
 
 /*
 * Product - 多个数组的排列组合
